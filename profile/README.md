@@ -1,12 +1,8 @@
-## Hi there 👋
+## 你好 👋
 
-<!--
+这里是[FrenchPicnic](https://github.com/FrenchPicnic)半夜闲的无聊建的组织，用于存放我的学习笔记，未来也许会放一些自己的小项目
 
-**Here are some ideas to get you started:**
+起名`Fractal Waltz`是来自a_hisa的[`Fractal`](https://www.youtube.com/watch?v=uNhaGGjij2M)和[`Rainy Waltz`](https://www.youtube.com/watch?v=IOz7xI7mofw)  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+~~而且分形圆舞曲也很中二~~
+
