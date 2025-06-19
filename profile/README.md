@@ -4,5 +4,5 @@
 
 起名`Fractal Waltz`是来自a_hisa的[`Fractal`](https://www.youtube.com/watch?v=uNhaGGjij2M)和[`Rainy Waltz`](https://www.youtube.com/watch?v=IOz7xI7mofw)  
 
-~~而且分形圆舞曲也很中二~~
+~~而且分形圆舞曲听起来也很中二~~
 
